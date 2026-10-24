@@ -1,4 +1,4 @@
-# Storage Estimator
+# Storage Estimator - Main Version
 
 ## Purpose
 A simple Python utility to calculate and convert storage sizes from gigabytes (GB) to megabytes (MB).
